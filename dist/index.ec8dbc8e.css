@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.loader{--charge:"hsl(%s, 80%, 50%)" % var(--h,0);animation:load 2s ease-in-out infinite;border-image:conic-gradient(var(--charge) var(--a),transparent calc(var(--a) + .5deg)) 30;border-style:solid;border-width:1vmin;color:#000;font-family:monospace;font-size:2rem;font-weight:700;padding:2rem 4rem}@keyframes load{0%,10%{--a:0deg;--h:0}to{--a:360deg;--h:100}}
+/*# sourceMappingURL=index.ec8dbc8e.css.map */
