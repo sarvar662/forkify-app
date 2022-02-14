@@ -77,6 +77,3 @@ let addNewRecipe = async function(data) {
 
 AddNewRecipe.addHandlerSubmit(addNewRecipe)
 
-console.log('sarvar');
-
-console.log('Server js updated');
