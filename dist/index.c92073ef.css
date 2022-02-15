@@ -123,6 +123,8 @@ button{
     position: relative;
 }
 
+/* */
+
 .side{
     flex: 1.5; padding: 3rem 0;
     background-color: white;
